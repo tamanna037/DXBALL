@@ -1,0 +1,12 @@
+The excutable file needs the file "GLUT32.DLL". So, "GLUT32.DLL" must be int the same folder as the exe file.
+
+power ups 
+0 large paddle
+1 small paddle
+2 big ball
+3 xtra life
+4 fast ball
+5 slow ball
+6 bullet 
+7 magnet
+8 multiple ball
