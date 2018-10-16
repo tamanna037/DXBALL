@@ -1,6 +1,6 @@
 # DXBALL
 
-A Desktop DxBall game,programmed by C and designed using iGraphics. the player controls a paddle at the bottom and deflects a single ball, hitting different colored blocks on the top of the screen without having the ball fall below the screen. Clearing all the blocks results in completing the level and going to the next. There are three levels to complete.
+A Desktop DxBall game, programmed by C and designed using iGraphics. the player controls a paddle at the bottom and deflects a single ball, hitting different colored blocks on the top of the screen without having the ball fall below the screen. Clearing all the blocks results in completing the level and going to the next. There are three levels to complete.
 
 
 **Power Ups**
