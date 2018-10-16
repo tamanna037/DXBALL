@@ -5,7 +5,6 @@ A Desktop DxBall game. the player controls a paddle at the bottom and deflects a
 
 **Power Ups**
 
-No        Power
 0.       Large paddle
 1.       Small paddle
 2.       Big ball
